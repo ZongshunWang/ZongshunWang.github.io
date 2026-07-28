@@ -44,9 +44,9 @@ My research interest lies in formal argumentation theory, which serves as a comp
   <!--<br><br>[**PDF**](/files/DFAF-CLAR.pdf)/[**URL**](https://doi.org/10.1007/978-3-030-44638-3_18)-->
 
 ## Funding
--  General Program Program of China Postdoctoral Science Foundation
--  Postdoctoral Fellowship Program of China Postdoctoral Science Foundation (Grade C)
--  Young Faculty Research Capacity Enhancement Project of Sun Yat-sen University
+-  China Postdoctoral Science Foundation General Program
+-  China Postdoctoral Science Foundation Postdoctoral Fellowship Program (Grade C)
+-  Sun Yat-sen University Young Faculty Research Capacity Enhancement Program 
 
 ## Award
 - Sun Yat-sen University Excellent Doctoral Dissertation Award 
